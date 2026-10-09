@@ -1,0 +1,9 @@
+body { font-family: Tahoma, sans-serif; background: #fff0f5; color: #333; max-width: 700px; margin: 0 auto; padding: 16px; }
+h1, h2 { color: #e75480; }
+table { border-collapse: collapse; }
+td, th { padding: 8px 14px; }
+.profile img { width: 150px; height: 150px; border-radius: 50%; }
+.skills td, .skills th { border: 1px solid #e75480; }
+.btn { background: #e75480; color: #fff; padding: 8px 20px; border-radius: 20px; text-decoration: none; border: 0; }
+input, textarea { width: 100%; padding: 6px; margin-bottom: 10px; }
+footer { margin-top: 30px; text-align: center; }
